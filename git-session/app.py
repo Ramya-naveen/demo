@@ -1,5 +1,4 @@
-a=5
-b=10
-c=6
-sum=a+b+c
+a=input()
+b=input()
+sum=a+b
 print(sum)
